@@ -6,7 +6,9 @@ Run the following commands
 
 ### `npm start`
 
-And that is it mate
+&nbsp;
+
+And that is it mate.
 
 &nbsp;
 
