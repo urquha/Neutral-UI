@@ -1,3 +1,19 @@
+## To Run The App
+
+Run the following commands
+
+### `npm install`
+
+### `npm start`
+
+
+
+
+
+
+
+## Default README Stuff
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
