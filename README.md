@@ -16,7 +16,17 @@ And that is it mate.
 
 ### Nikolai: Get the project
 
+You may have to install some stuff like git (I'm not sure, let me know if anything doesnt work), then clone the repository into a github folder ready for you to run.
+
 Go to CMD on your machine.
+
+From here you need to get to your documents, to see what folders are in your directory type `pwd`
+
+To get into a folder the command is `cd "the-folder-you-want-to-get-into"`
+
+Use these commands to navigate into your documents folder then type the command `mkdir Github`
+
+Go into the github folder using `cd Github`
 
 Type in `git clone git@github.com:urquha/Neutral-UI.git` and press enter.
 
