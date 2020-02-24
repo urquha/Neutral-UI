@@ -14,7 +14,19 @@ And that is it mate.
 
 &nbsp;
 
+### Nikolai: Get the project
 
+Go to CMD on your machine.
+
+Type in `git clone git@github.com:urquha/Neutral-UI.git` and press enter.
+
+Type `cd Neutral-UI.git` and press enter.
+
+Then run the above commands.
+
+&nbsp;
+
+&nbsp;
 
 
 ## Default README Stuff
